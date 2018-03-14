@@ -1,0 +1,5 @@
+{
+    "ref": "fedora/28/${basearch}/testing/iot",
+    "ex-jigdo-spec": "fedora-iot.spec",
+    "include": "fedora-iot-base.json"
+}

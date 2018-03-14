@@ -1,0 +1,13 @@
+<template>
+    <name>rawhide</name>
+    <os>
+        <name>Fedora</name>
+        <version>20</version>
+        <arch>x86_64</arch>
+        <install type='url'>
+            <url>http://dl.fedoraproject.org/pub/fedora/linux/development/22/x86_64/os/</url>
+        </install>
+        <rootpw>ewwwwwww</rootpw>
+    </os>
+</template>
+
