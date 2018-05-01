@@ -101,7 +101,6 @@
          "rsync",
          "bash-completion",
          "tmux", "screen",
-         "policycoreutils-python",
          "policycoreutils-python-utils",
          "setools-console",
          "audit",
