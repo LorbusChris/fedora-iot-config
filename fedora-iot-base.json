@@ -68,27 +68,27 @@
     "check-groups": { "type": "file", "filename": "group" },
 
     "packages": ["atomic",
+         "fedora-release",
          "glibc", "nss-altfiles", "shadow-utils",
          "sssd-client", "libsss_sudo",
-         "fedora-release",
          "dracut-config-generic", "kernel",
          "dracut-network",
          "rpm-ostree", "lvm2",
          "chrony",
          "cryptsetup",
          "authselect",
-         "e2fsprogs", "xfsprogs",
+         "e2fsprogs",
          "gnupg2",
          "basesystem",
          "python3",
          "bash",
-         "xz", "gzip", "bzip2",
+         "xz", "gzip",
          "coreutils",
          "which",
          "curl",
          "iptables-services", "iptables", "firewalld",
-         "NetworkManager", "NetworkManager-bluetooth", "NetworkManager-wifi",
-         "dnsmasq",
+         "NetworkManager", "NetworkManager-wifi",
+         "dnsmasq", "traceroute",
          "hostname", "initscripts", "iproute", "iputils",
          "openssh-clients", "openssh-server", "passwd",
          "policycoreutils", "procps-ng", "rootfiles", "rpm",
@@ -105,6 +105,8 @@
          "policycoreutils-python-utils",
          "setools-console",
          "audit",
+         "bluez", "bluez-libs", "wpan-tools",
+         "kernel-tools", "libgpiod-utils",
          "podman",
          "attr"],
 
@@ -121,5 +123,5 @@
 
     "default_target": "multi-user.target",
 
-    "units": ["docker.service"]
+    "units": ["initial-setup.service"]
 }
