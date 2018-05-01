@@ -70,7 +70,7 @@
     "packages": ["atomic",
          "glibc", "nss-altfiles", "shadow-utils",
          "sssd-client", "libsss_sudo",
-         "fedora-release-iot",
+         "fedora-release",
          "dracut-config-generic", "kernel",
          "dracut-network",
          "rpm-ostree", "lvm2",
