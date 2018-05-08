@@ -76,7 +76,7 @@
          "rpm-ostree", "lvm2",
          "chrony",
          "cryptsetup",
-         "authselect",
+         "authselect", "authselect-compat",
          "e2fsprogs",
          "gnupg2",
          "basesystem",
