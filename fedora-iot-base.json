@@ -1,5 +1,5 @@
 {
-    "ref": "fedora/28/${basearch}/iot",
+    "ref": "fedora/29/${basearch}/iot",
     "ex-jigdo-spec": "fedora-iot.spec",
 
     "repos": [],
@@ -8,8 +8,8 @@
 
     "documentation": false,
 
-    "automatic_version_prefix": "28",
-    "mutate-os-release": "28",
+    "automatic_version_prefix": "29",
+    "mutate-os-release": "29",
 
     "initramfs-args": ["--no-hostonly"],
     "boot_location": "new",
@@ -111,10 +111,10 @@
 
     "packages-aarch64": ["grub2-efi", "ostree-grub2",
                          "efibootmgr", "shim", "atomic-devmode",
-                         "uboot-tools", "uboot-images-armv8", "bcm283x-firmware"],
+                         "uboot-tools", "uboot-images-armv8", "bcm293x-firmware"],
 
     "packages-armhfp": ["extlinux-bootloader",
-                         "uboot-tools", "uboot-images-armv7", "bcm283x-firmware"],
+                         "uboot-tools", "uboot-images-armv7", "bcm293x-firmware"],
 
     "packages-x86_64": ["grub2", "grub2-efi-x64", "ostree-grub2",
                          "efibootmgr", "shim", "atomic-devmode",

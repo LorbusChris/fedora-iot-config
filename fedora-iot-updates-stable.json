@@ -1,5 +1,5 @@
 
-    "ref": "fedora/28/${basearch}/updates/iot",
+    "ref": "fedora/29/${basearch}/updates/iot",
     "ex-jigdo-spec": "fedora-iot.spec",
     "include": "fedora-iot-base.json"
 }

@@ -1,0 +1,34 @@
+[fedora-29]
+name=Fedora 29 - $basearch
+failovermethod=priority
+#baseurl=http://download.fedoraproject.org/pub/fedora/linux/releases/29/Everything/$basearch/os/
+metalink=https://mirrors.fedoraproject.org/metalink?repo=fedora-29&arch=$basearch
+enabled=1
+#metadata_expire=7d
+repo_gpgcheck=0
+type=rpm
+gpgcheck=1
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-29-$basearch
+skip_if_unavailable=False
+[fedora-29-updates]
+name=Fedora 29 - $basearch - Updates
+failovermethod=priority
+#baseurl=http://download.fedoraproject.org/pub/fedora/linux/updates/29/$basearch/
+metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-released-f29&arch=$basearch
+enabled=0
+repo_gpgcheck=0
+type=rpm
+gpgcheck=1
+metadata_expire=6h
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-29-$basearch
+skip_if_unavailable=False
+[fedora-29-updates-testing]
+name=Fedora 29 - $basearch - Test Updates
+failovermethod=priority
+#baseurl=http://download.fedoraproject.org/pub/fedora/linux/updates/testing/29/$basearch/
+metalink=https://mirrors.fedoraproject.org/metalink?repo=updates-testing-f29&arch=$basearch
+enabled=0
+gpgcheck=1
+metadata_expire=6h
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-fedora-29-$basearch
+skip_if_unavailable=False
