@@ -111,11 +111,11 @@
 
     "packages-aarch64": ["grub2-efi-aa64", "ostree-grub2",
                          "efibootmgr", "shim-aa64", "atomic-devmode",
-                         "uboot-tools", "uboot-images-armv8", "bcm293x-firmware",
+                         "uboot-tools", "uboot-images-armv8", "bcm283x-firmware",
                          "fwupdate", "fwupdate-efi"],
 
     "packages-armhfp": ["extlinux-bootloader",
-                        "uboot-tools", "uboot-images-armv7", "bcm293x-firmware"],
+                        "uboot-tools", "uboot-images-armv7", "bcm283x-firmware"],
 
     "packages-x86_64": ["grub2", "grub2-efi-x64", "ostree-grub2",
                         "efibootmgr", "shim-x64", "atomic-devmode",
