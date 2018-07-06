@@ -3,7 +3,7 @@
 Name: fedora-iot
 Version:	%{ostree_version}
 Release:	1%{?dist}
-Summary:	Image (rpm-ostree jigdo) for Fedora Atomic Host
+Summary:	Image (rpm-ostree jigdo) for Fedora IoT
 License:	MIT
 #@@@rpmostree_jigdo_meta@@@
 
