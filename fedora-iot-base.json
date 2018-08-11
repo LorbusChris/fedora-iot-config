@@ -89,7 +89,7 @@
          "iptables-services", "iptables", "firewalld",
          "NetworkManager", "NetworkManager-wifi",
          "dnsmasq", "traceroute",
-         "hostname", "initscripts", "iproute", "iputils",
+         "hostname", "iproute", "iputils",
          "openssh-clients", "openssh-server", "passwd",
          "policycoreutils", "procps-ng", "rootfiles", "rpm",
          "selinux-policy-targeted", "setup", "shadow-utils",
