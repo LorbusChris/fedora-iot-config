@@ -115,7 +115,7 @@
                          "fwupdate", "fwupdate-efi", "arm-image-installer"],
 
     "packages-armhfp": ["grub2-efi-arm", "ostree-grub2", "efibootmgr", "atomic-devmode",
-                        "uboot-tools", "uboot-images-armv7", "bcm283x-firmware"],
+                        "uboot-tools", "uboot-images-armv7", "bcm283x-firmware",
                         "arm-image-installer"],
 
     "packages-x86_64": ["grub2", "grub2-efi-x64", "ostree-grub2",
