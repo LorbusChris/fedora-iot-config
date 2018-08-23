@@ -1,5 +1,5 @@
 {
-    "ref": "fedora/29/${basearch}/iot",
+    "ref": "fedora/30/${basearch}/iot",
     "ex-jigdo-spec": "fedora-iot.spec",
 
     "repos": [],
@@ -8,8 +8,8 @@
 
     "documentation": false,
 
-    "automatic_version_prefix": "29",
-    "mutate-os-release": "29",
+    "automatic_version_prefix": "30",
+    "mutate-os-release": "30",
 
     "initramfs-args": ["--no-hostonly"],
     "boot_location": "new",
