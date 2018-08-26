@@ -68,7 +68,7 @@
     "check-groups": { "type": "file", "filename": "group" },
 
     "packages": ["atomic",
-         "fedora-release",
+         "fedora-release-iot",
          "glibc", "nss-altfiles", "shadow-utils",
          "sssd-client", "libsss_sudo",
          "dracut-config-generic", "kernel",
