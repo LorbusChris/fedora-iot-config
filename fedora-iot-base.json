@@ -67,8 +67,7 @@
     "check-passwd": { "type": "file", "filename": "passwd" },
     "check-groups": { "type": "file", "filename": "group" },
 
-    "packages": ["atomic",
-         "fedora-release-iot",
+    "packages": ["fedora-release-iot",
          "glibc", "nss-altfiles", "shadow-utils",
          "sssd-client", "libsss_sudo",
          "dracut-config-generic", "kernel",
