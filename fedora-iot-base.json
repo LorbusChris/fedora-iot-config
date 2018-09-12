@@ -76,7 +76,7 @@
          "dracut-network",
          "rpm-ostree", "lvm2",
          "chrony", "zram",
-         "cryptsetup",
+         "cryptsetup", "pinentry",
          "authconfig",
          "e2fsprogs",
          "gnupg2",
