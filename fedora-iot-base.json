@@ -6,6 +6,8 @@
 
     "selinux": true,
 
+    "recommends": false,
+
     "documentation": false,
 
     "automatic_version_prefix": "30",
