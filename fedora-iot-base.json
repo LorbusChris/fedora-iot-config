@@ -125,5 +125,5 @@
 
     "default_target": "multi-user.target",
 
-    "units": ["initial-setup.service"]
+    "units": ["NetworkManager.service", "sshd.service", "rngd.service", "zram-swap.service"]
 }
