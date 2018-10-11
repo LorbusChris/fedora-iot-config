@@ -107,7 +107,7 @@
          "audit", "rng-tools",
          "bluez", "bluez-libs", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
-         "podman",
+         "podman", "criu",
          "attr"],
 
     "packages-aarch64": ["grub2-efi-aa64", "ostree-grub2",
