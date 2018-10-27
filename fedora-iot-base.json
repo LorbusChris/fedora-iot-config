@@ -108,6 +108,7 @@
          "bluez", "bluez-libs", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
          "podman", "criu",
+         "clevis", "clevis-dracut", "clevis-luks",
          "attr"],
 
     "packages-aarch64": ["grub2-efi-aa64", "ostree-grub2",
