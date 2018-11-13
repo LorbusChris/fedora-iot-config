@@ -88,7 +88,7 @@
          "which",
          "curl",
          "iptables-services", "iptables", "firewalld",
-         "NetworkManager", "NetworkManager-wifi",
+         "NetworkManager", "NetworkManager-wifi", "NetworkManager-wwan",
          "dnsmasq", "traceroute",
          "hostname", "iproute", "iputils",
          "openssh-clients", "openssh-server", "passwd",
