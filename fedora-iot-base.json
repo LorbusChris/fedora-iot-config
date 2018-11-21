@@ -96,6 +96,7 @@
          "selinux-policy-targeted", "setup", "shadow-utils",
          "sudo", "systemd", "util-linux", "vim-minimal",
          "less", "tar",
+	 "fwupd", "usbguard",
          "greenboot", "greenboot-grub2", "greenboot-ostree-grub2", "greenboot-reboot",
          "initial-setup",
          "cloud-utils-growpart",
