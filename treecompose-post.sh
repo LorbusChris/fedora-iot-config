@@ -18,7 +18,3 @@ for x in /usr/sbin/glibc_post_upgrade.*; do
         ln -srf /usr/bin/true ${x}
     fi
 done
-
-# Disable firewalld - we include it but don't want it enabled by default
-# See https://pagure.io/atomic-wg/issue/372
-systemctl disable firewalld 
