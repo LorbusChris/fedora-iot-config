@@ -100,7 +100,7 @@
          "greenboot", "greenboot-grub2", "greenboot-ostree-grub2", "greenboot-reboot",
          "initial-setup",
          "cloud-utils-growpart",
-         "rsync", "atomic-devmode",
+         "rsync",
          "bash-completion",
          "tmux", "screen",
          "policycoreutils-python-utils",
