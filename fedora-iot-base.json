@@ -77,7 +77,7 @@
          "rpm-ostree", "lvm2",
          "chrony", "zram",
          "cryptsetup", "pinentry",
-         "authconfig",
+         "authconfig", "keyutils",
          "e2fsprogs",
          "gnupg2",
          "basesystem",
