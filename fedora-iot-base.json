@@ -97,7 +97,7 @@
          "sudo", "systemd", "util-linux", "vim-minimal",
          "less", "tar",
 	 "fwupd", "usbguard",
-         "greenboot", "greenboot-grub2", "greenboot-ostree-grub2", "greenboot-reboot",
+         "greenboot", "greenboot-grub2", "greenboot-rpm-ostree-grub2", "greenboot-reboot", "greenboot-status",
          "initial-setup",
          "cloud-utils-growpart",
          "rsync",
