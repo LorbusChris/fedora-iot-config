@@ -74,7 +74,7 @@
          "sssd-client", "libsss_sudo",
          "dracut-config-generic", "kernel",
          "dracut-network",
-         "rpm-ostree", "lvm2",
+         "rpm-ostree", "polkit", "lvm2",
          "chrony", "zram",
          "cryptsetup", "pinentry",
          "authconfig", "keyutils",
