@@ -114,7 +114,8 @@
 
     "packages-aarch64": ["grub2-efi-aa64", "efibootmgr", "shim-aa64",
                          "uboot-tools", "uboot-images-armv8", "bcm283x-firmware",
-                         "fwupdate", "fwupdate-efi", "arm-image-installer"],
+                         "fwupdate", "fwupdate-efi", "arm-image-installer",
+                         "iwl7260-firmware"],
 
     "packages-armhfp": ["grub2-efi-arm", "efibootmgr",
                         "uboot-tools", "uboot-images-armv7", "bcm283x-firmware",
