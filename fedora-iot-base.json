@@ -108,7 +108,7 @@
          "audit", "rng-tools",
          "bluez", "bluez-libs", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
-         "podman", "criu",
+         "podman", "container-selinux", "skopeo", "criu",
          "clevis", "clevis-dracut", "clevis-luks",
          "attr"],
 
