@@ -109,6 +109,7 @@
          "bluez", "bluez-libs", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
          "podman", "container-selinux", "skopeo", "criu",
+	 "slirp4netns",
          "clevis", "clevis-dracut", "clevis-luks",
          "attr"],
 
