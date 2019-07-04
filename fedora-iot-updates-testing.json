@@ -1,5 +1,5 @@
 {
-    "ref": "fedora/devel/${basearch}/testing/iot",
+    "ref": "fedora/rawhide/${basearch}/testing/iot",
     "ex-jigdo-spec": "fedora-iot.spec",
     "include": "fedora-iot-base.json"
 }
