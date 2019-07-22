@@ -87,7 +87,7 @@
          "coreutils",
          "which",
          "curl",
-         "iptables-services", "iptables", "firewalld",
+         "firewalld", "iptables",
          "NetworkManager", "NetworkManager-wifi", "NetworkManager-wwan",
          "dnsmasq", "traceroute",
          "hostname", "iproute", "iputils",
