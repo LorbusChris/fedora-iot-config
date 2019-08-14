@@ -10,8 +10,8 @@
 
     "documentation": false,
 
-    "automatic_version_prefix": "31",
-    "mutate-os-release": "31",
+    "automatic_version_prefix": "32",
+    "mutate-os-release": "32",
 
     "initramfs-args": ["--no-hostonly"],
     "boot_location": "new",
