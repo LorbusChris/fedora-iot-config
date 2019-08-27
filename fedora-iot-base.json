@@ -89,6 +89,7 @@
          "curl",
          "firewalld", "iptables",
          "NetworkManager", "NetworkManager-wifi", "NetworkManager-wwan",
+         "wpa_supplicant", "iwd",
          "dnsmasq", "traceroute",
          "hostname", "iproute", "iputils",
          "openssh-clients", "openssh-server", "passwd",
