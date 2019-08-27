@@ -115,15 +115,13 @@
 
     "packages-aarch64": ["grub2-efi-aa64", "efibootmgr", "shim-aa64",
                          "uboot-tools", "uboot-images-armv8", "bcm283x-firmware",
-                         "fwupdate", "fwupdate-efi", "arm-image-installer",
-                         "iwl7260-firmware"],
+                         "arm-image-installer", "iwl7260-firmware"],
 
     "packages-armhfp": ["grub2-efi-arm", "efibootmgr",
                         "uboot-tools", "uboot-images-armv7", "bcm283x-firmware",
                         "arm-image-installer"],
 
-    "packages-x86_64": ["grub2", "grub2-efi-x64", "efibootmgr", "shim-x64",
-                        "fwupdate", "fwupdate-efi", "microcode_ctl",
+    "packages-x86_64": ["grub2", "grub2-efi-x64", "efibootmgr", "shim-x64", "microcode_ctl",
                         "iwl1000-firmware", "iwl100-firmware", "iwl105-firmware", "iwl135-firmware",
                         "iwl2000-firmware", "iwl2030-firmware", "iwl3160-firmware", "iwl5000-firmware",
                         "iwl5150-firmware", "iwl6000-firmware", "iwl6050-firmware", "iwl7260-firmware"],
