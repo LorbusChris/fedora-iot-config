@@ -106,7 +106,7 @@
          "policycoreutils-python-utils",
          "setools-console",
          "audit", "rng-tools",
-         "bluez", "bluez-libs", "wpan-tools",
+         "bluez", "bluez-libs", "bluez-mesh", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
          "podman", "container-selinux", "skopeo", "criu",
 	 "slirp4netns",
