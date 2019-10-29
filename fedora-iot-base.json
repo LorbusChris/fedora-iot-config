@@ -13,7 +13,8 @@
     "automatic_version_prefix": "32",
     "mutate-os-release": "32",
 
-    "initramfs-args": ["--no-hostonly"],
+    "initramfs-args": ["--no-hostonly",
+                       "--add", "ignition"],
     "boot_location": "new",
 
     "install-langs-comment": "Keep this in sync with treecompose-post.sh",
