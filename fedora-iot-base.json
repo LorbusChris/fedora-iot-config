@@ -78,7 +78,7 @@
          "rpm-ostree", "polkit", "lvm2",
          "chrony", "zram",
          "cryptsetup", "pinentry",
-         "authconfig", "keyutils",
+         "keyutils",
          "e2fsprogs",
          "gnupg2",
          "basesystem",
