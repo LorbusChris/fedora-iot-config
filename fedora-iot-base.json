@@ -79,7 +79,7 @@
          "chrony", "zram",
          "cryptsetup", "pinentry",
          "keyutils",
-         "e2fsprogs", "dosfstools",
+         "e2fsprogs", "xfsprogs", "dosfstools",
          "gnupg2",
          "basesystem", "python3", "bash",
          "xz", "gzip",
