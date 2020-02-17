@@ -1,6 +1,6 @@
 {
     "ref": "fedora/rawhide/${basearch}/iot",
     "ex-jigdo-spec": "fedora-iot.spec",
-    "repos": ["fedora-32"],
+    "repos": ["fedora-33"],
     "include": "fedora-iot-base.json"
 }
