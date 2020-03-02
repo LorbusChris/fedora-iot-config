@@ -1,3 +1,3 @@
-# atomic
+# ostree 
 
-Atomic compose configs for Fedora IoT
+This is the repo for the ostree compose configs for Fedora IoT.
