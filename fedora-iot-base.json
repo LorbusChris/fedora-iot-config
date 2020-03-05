@@ -102,7 +102,7 @@
          "tmux", "screen",
          "policycoreutils-python-utils",
          "setools-console",
-         "audit", "rng-tools",
+         "audit", "rng-tools", "chrony",
          "bluez", "bluez-libs", "bluez-mesh", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
          "podman", "container-selinux", "skopeo", "criu",
