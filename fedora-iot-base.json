@@ -95,7 +95,7 @@
          "less", "tar",
 	 "fwupd", "usbguard",
          "greenboot", "greenboot-grub2", "greenboot-rpm-ostree-grub2", "greenboot-reboot", "greenboot-status",
-         "ignition",
+         "ignition", "zezere-ignition",
          "rsync", "attr",
          "ima-evm-utils",
          "bash-completion",
