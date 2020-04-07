@@ -106,7 +106,7 @@
          "bluez", "bluez-libs", "bluez-mesh", "wpan-tools",
          "kernel-tools", "libgpiod-utils",
          "podman", "container-selinux", "skopeo", "criu",
-	 "slirp4netns",
+	 "slirp4netns", "fuse-overlayfs",
          "clevis", "clevis-dracut", "clevis-luks"],
 
     "packages-aarch64": ["grub2-efi-aa64", "efibootmgr", "shim-aa64",
