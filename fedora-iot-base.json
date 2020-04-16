@@ -85,7 +85,7 @@
          "coreutils", "which", "curl",
          "firewalld", "iptables",
          "NetworkManager", "NetworkManager-wifi", "NetworkManager-wwan",
-         "wpa_supplicant", "iwd",
+         "wpa_supplicant", "iwd", "tpm2-pkcs11",
          "dnsmasq", "traceroute",
          "hostname", "iproute", "iputils",
          "openssh-clients", "openssh-server", "passwd",
