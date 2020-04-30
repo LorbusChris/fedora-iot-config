@@ -1,0 +1,7 @@
+include: fedora-iot-base.yaml
+ref: fedora/rawhide/${basearch}/iot
+releasever: 33
+rojig:
+    name: fedora-iot
+    summary: "Fedora IoT image"
+    license: MIT
